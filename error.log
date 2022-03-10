@@ -1,0 +1,41 @@
+
+[2022-03-10T16:48:19.105] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'add() error ----> ValidationError: precio: Cast to Number failed for value "NaN" (type number) at path "precio"'
+}
+[2022-03-10T16:58:19.043] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'add() error ----> ValidationError: price: Cast to Number failed for value "NaN" (type number) at path "price"'
+}
+[2022-03-10T16:58:55.363] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'add() error ----> ValidationError: price: Cast to Number failed for value "NaN" (type number) at path "price"'
+}
+[2022-03-10T16:59:29.931] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'add() error ----> ValidationError: price: Cast to Number failed for value "NaN" (type number) at path "price"'
+}
+[2022-03-10T17:01:03.016] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'add() error ----> ValidationError: price: Cast to Number failed for value "NaN" (type number) at path "price"'
+}
+[2022-03-10T17:04:15.191] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'add() error ----> ValidationError: price: Cast to Number failed for value "NaN" (type number) at path "price"'
+}
+[2022-03-10T17:05:42.176] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'add() error ----> ValidationError: price: Cast to Number failed for value "NaN" (type number) at path "price"'
+}
+[2022-03-10T18:32:10.133] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'deleteAll() error ----> TypeError: Product.delete is not a function'
+}
+[2022-03-10T18:33:59.283] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'deleteById() error ----> CastError: Cast to ObjectId failed for value "true" (type boolean) at path "_id" for model "Product"'
+}
+[2022-03-10T18:35:32.052] [ERROR] error - CustomErr {
+  state: 500,
+  descripcion: 'deleteAll() error ----> TypeError: Product.delete is not a function'
+}
